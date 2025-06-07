@@ -1,0 +1,13 @@
+# Core data processing and scientific libraries
+pandas==2.0.0
+numpy==1.23.5
+scikit-learn==1.2.2
+
+# Deep learning framework
+torch==2.0.0
+
+# Visualization
+matplotlib==3.7.1
+
+# Optional - for development/exploration
+jupyter==1.0.0
