@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Shalini Balaram
 - **Email:** shalinib0204@gmail.com
-- **Institute:** Indian Institute of Technology Madras (IITM)
+- **Affiliation:** IIT Madras alumna
 
 ## Project Overview
 This project uses LSTM (Long Short-Term Memory) neural networks to forecast streamflow based on historical rainfall and streamflow data for the Abusu station.
