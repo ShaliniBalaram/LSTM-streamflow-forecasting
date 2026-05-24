@@ -8,6 +8,15 @@
 ## Project Overview
 This project uses LSTM (Long Short-Term Memory) neural networks to forecast streamflow based on historical rainfall and streamflow data for the Abusu station.
 
+The repository is structured as a reproducible forecasting pipeline: raw rainfall/streamflow inputs are preprocessed into train/validation/test splits, an LSTM model is trained, and evaluation metrics and plots are written to timestamped output folders.
+
+## Skills Demonstrated
+
+- Rainfall-runoff time-series preprocessing
+- Sequence modeling for streamflow forecasting
+- Train/validation/test evaluation with saved metrics and plots
+- Reproducible command-line experiments with configurable model settings
+
 ## Project Structure
 
 - `data/`: Contains rainfall and streamflow data for Abusu station and catchment attributes
